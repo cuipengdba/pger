@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## 说明
 
-You can use the [editor on GitHub](https://github.com/CuiPengAndy/PGer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+此博客模板 Fork 自仓库：[cnfeat/blog.io: 简单直接可用博客模板](https://github.com/cnfeat/blog.io)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+配套说用说明：[如何搭建一个独立博客——简明 GitHub Pages与 jekyll 教程 - 读立写生](http://www.cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)
 
-### Markdown
+## 博客模板修订清单
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+文档内有详细注释，可按注释逐个修订
 
-```markdown
-Syntax highlighted code block
+* 博客名字、作者信息、浏览器小图标等：_config.yml 
+* 个人介绍页面：about.md
+* 代表作页面：milestone.md
+* 文章模板：blog.io/_posts/2015-03-02-how-to-write.md 
+* 
 
-# Header 1
-## Header 2
-### Header 3
+## 模板作者
 
-- Bulleted
-- List
+陈素封，博客：独立写生：[cnfeat.com](cnfeat.com)
 
-1. Numbered
-2. List
+联系方式：cnfeat@gmail.com
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CuiPengAndy/PGer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
