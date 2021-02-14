@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## 技术文章
+
+* * *
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
