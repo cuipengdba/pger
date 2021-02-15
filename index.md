@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## PostgreSQL技术小站
 
 * * *
