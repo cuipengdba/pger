@@ -1,1 +1,1 @@
-## 崔鹏的PostgreSQL技术小站
+## PostgreSQL技术小站
