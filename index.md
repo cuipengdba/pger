@@ -12,4 +12,4 @@
 <a href='#'>[未完待续]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三重境界 PostgreSQL开发进阶(22课)<a/><br/>
 * * *
 ### 技术文档
-<a href='tree/202102/20210220_01.md'>2021-02-20_01 PostgreSQL 12 源码自带第三方插件功能简介<a/><br/>
+<a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210220_01.md'>2021-02-20_01 PostgreSQL 12 源码自带第三方插件功能简介<a/><br/>
