@@ -4,6 +4,8 @@
 
 可以issue或微信(18045062285)与我联系, 看到后会尽快回复。<br/>
 
+![image](https://github.com/cuipengdba/pger/blob/main/images/cuipengwx.png)
+
 * * *
 ### PostgreSQL九阳功
 本套视频由崔鹏原创,共分三个阶段,讲述PostgreSQL的"内功",帮助大家打牢基础<br/>
