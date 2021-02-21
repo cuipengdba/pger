@@ -19,3 +19,4 @@
 ### 技术文档
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210220_01.md'>2021-02-20_01 《PostgreSQL 12 源码自带第三方插件功能简介》<a/><br/>
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210220_02.md'>2021-02-20_02 《解决github图片不显示的问题(windows)》<a/><br/>
+<a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210221_01.md'>2021-02-21_01 《PostgreSQL jieba中文分词器安装使用》<a/><br/>
