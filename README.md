@@ -24,3 +24,8 @@
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210221_01.md'>2021-02-21_01 《PostgreSQL jieba中文分词器安装使用》<a/><br/>
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210222_01.md'>2021-02-22_01 《2021年自研数据库的机遇与思考(上)》<a/><br/>
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210223_01.md'>2021-02-23_01 《Spark 连接 PostgreSQL数据库》<a/><br/>
+<a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210224_01.md'>2021-02-24_01 《PostGIS安装》<a/><br/>
+<a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210225_01.md'>2021-02-25_01 《pg10.1 orafce3.6 Oracle兼容插件安装》<a/><br/>
+<a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210226_01.md'>2021-02-26_01 《pgbouncer的安装和配置》<a/><br/>
+<a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210227_01.md'>2021-02-27_01 《uuid插件安装》<a/><br/>
+<a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210228_01.md'>2021-02-28_01 《Linux修改磁盘分区大小LVM》<a/><br/>
