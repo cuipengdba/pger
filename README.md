@@ -20,6 +20,7 @@
 * * *
 ### 技术文档
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210302_02.md'>2021-03-02_02 《数据库参数优化》<a/><br/>
+<a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210302_01.md'>2021-03-02_01 《Postgres单用户模式》<a/><br/>  
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210301_01.md'>2021-03-01_01 《CitusDB安装与基础使用》<a/><br/>
 * * *
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202102/20210220_01.md'>2021-02-20_01 《PostgreSQL 12 源码自带第三方插件功能简介》<a/><br/>
