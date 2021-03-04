@@ -17,6 +17,8 @@
 <a href='#'>[未完待续]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三重境界 PostgreSQL开发进阶(22课)<a/><br/>
 * * *
 ### 技术文档
+<a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210307_01.md'>2021-03-07_01 《MySQL VS PostGreSQL 协议对比》<a/><br/>
+<a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210306_01.md'>2021-03-06_01 《MySQL和PostgreSQL的自增序列探讨》<a/><br/>
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210305_01.md'>2021-03-05_01 《系统表、系统视图》<a/><br/>
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210304_01.md'>2021-03-04_01 《参数修改、生效》<a/><br/>
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210303_01.md'>2021-03-03_01 《WAL日志手动清理》<a/><br/>
