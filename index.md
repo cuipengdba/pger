@@ -5,6 +5,27 @@
 可以issue或微信(18045062285)与我联系, 看到后会尽快回复。<br/>
 
 ![image](https://github.com/cuipengdba/pger/blob/main/images/cuipengwx.png)
+* * *
+### PostgreSQL快速入职指南-运维实战
+本套视频由崔鹏原创,共分为16个章节,提供给初学PostgreSQL的同学,从入门到运维实战。<br/>
+本套视频本着从实战中来到实战中去的讲解思路。原创视频资料,欢迎大家转载(但请注明出处)。<br/>
+<br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第1课  标准化安装与配置<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第2课  客户端工具介绍<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第3课  数据类型介绍<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第4课  SQL高级特性<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第5课  SQL执行计划<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第6课  体系结构<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第7课  事物与并发控制<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第8课  分区表<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第9课  性能优化<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第10课 性能基准测试<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第11课 物理复制与逻辑复制<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第12课 备份与恢复<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第13课 高可用<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第14课 版本升级<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第15课 常用扩展模块<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第16课 数据库迁移实战<a/><br/>
 
 * * *
 ### PostgreSQL九阳功
