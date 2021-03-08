@@ -9,13 +9,16 @@
 ![image](https://github.com/cuipengdba/pger/blob/main/images/cuipengwx.png)
 * * *
 ### PostgreSQL快速入职指南-运维内参
+本套视频由崔鹏原创,共分三个阶段,讲述PostgreSQL的"内功",帮助大家打牢基础
+快速从初级DBA晋级到中高级DBA,作者认为学习技术和练习武功有异曲同工之妙,
+"内功"练习到"登峰造极的境界"飞花摘叶皆可伤人,学习技术依然如此。<br/>
 * * *
 ### PostgreSQL九阳功
 本套视频由崔鹏原创,共分三个阶段,讲述PostgreSQL的"内功",帮助大家打牢基础<br/>
 快速从初级DBA晋级到中高级DBA,作者认为学习技术和练习武功有异曲同工之妙,<br/>
 "内功"练习到"登峰造极的境界"飞花摘叶皆可伤人,学习技术依然如此。<br/>
 <br/>
-<a href='#'>[持续更新中]&nbsp;&nbsp;第一重境界 PostgreSQL核心原理 深入浅出数据库体系架构(12课)<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第一重境界 PostgreSQL核心原理 深入浅出数据库体系架构(12课)<a/><br/>
 <a href='#'>[未完待续]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二重境界 PostgreSQL性能优化艺术(18课)<a/><br/>
 <a href='#'>[未完待续]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三重境界 PostgreSQL开发进阶(22课)<a/><br/>
 * * *
