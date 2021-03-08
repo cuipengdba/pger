@@ -12,6 +12,7 @@
 本套视频由崔鹏原创,共分为16个章节,提供给初学PostgreSQL的同学,从入门到运维实战。<br/>
 本套视频本着从实战中来到实战中去的讲解思路。原创视频资料,欢迎大家转载(但请注明出处)。<br/>
 <br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;第1课  标准化安装与配置<a/><br/>
 <a href='#'>[未完待续]&nbsp;&nbsp;第2课  客户端工具介绍<a/><br/>
 <a href='#'>[未完待续]&nbsp;&nbsp;第3课  数据类型介绍<a/><br/>
 <a href='#'>[未完待续]&nbsp;&nbsp;第4课  SQL高级特性<a/><br/>
@@ -34,9 +35,9 @@
 快速从初级DBA晋级到中高级DBA,作者认为学习技术和练习武功有异曲同工之妙,<br/>
 "内功"练习到"登峰造极的境界"飞花摘叶皆可伤人,学习技术依然如此。<br/>
 <br/>
-<a href='#'>[未完待续]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一重境界 PostgreSQL核心原理 深入浅出数据库体系架构(12课)<a/><br/>
-<a href='#'>[未完待续]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二重境界 PostgreSQL性能优化艺术(18课)<a/><br/>
-<a href='#'>[未完待续]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三重境界 PostgreSQL开发进阶(22课)<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;&nbsp;&nbsp;第一重境界 PostgreSQL核心原理 深入浅出数据库体系架构(12课)<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;&nbsp;&nbsp;第二重境界 PostgreSQL性能优化艺术(18课)<a/><br/>
+<a href='#'>[未完待续]&nbsp;&nbsp;&nbsp;&nbsp;第三重境界 PostgreSQL开发进阶(22课)<a/><br/>
 * * *
 ### 技术文档
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210308_01.md'>2021-03-08_01 《数据库设计范式》<a/><br/>
