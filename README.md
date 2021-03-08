@@ -8,7 +8,7 @@
 
 ![image](https://github.com/cuipengdba/pger/blob/main/images/cuipengwx.png)
 * * *
-### PostgreSQL快速入职指南-运维内参
+### PostgreSQL快速入职指南-运维实战
 本套视频由崔鹏原创,共分三个阶段,讲述PostgreSQL的"内功",帮助大家打牢基础
 快速从初级DBA晋级到中高级DBA,作者认为学习技术和练习武功有异曲同工之妙,
 "内功"练习到"登峰造极的境界"飞花摘叶皆可伤人,学习技术依然如此。<br/>
