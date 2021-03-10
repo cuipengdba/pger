@@ -40,6 +40,8 @@
 <a href='#'>[未完待续]&nbsp;&nbsp;第三重境界 PostgreSQL开发进阶(22课)<a/><br/>
 * * *
 ### 技术文档
+<a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210310_01.md'>2021-03-10_01 《参数修改、生效》<a/><br/>
+<a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210309_01.md'>2021-03-09_01 《PostgreSQL 开启归档》<a/><br/>
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210308_01.md'>2021-03-08_01 《数据库设计范式》<a/><br/>
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210307_01.md'>2021-03-07_01 《MySQL VS PostGreSQL 协议对比》<a/><br/>
 <a href='https://github.com/cuipengdba/pger/blob/main/tree/202103/20210306_01.md'>2021-03-06_01 《MySQL和PostgreSQL的自增序列探讨》<a/><br/>
